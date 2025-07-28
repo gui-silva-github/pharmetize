@@ -1,0 +1,65 @@
+[
+  {
+    "id": "m1",
+    "name": "Dipirona 500 mg (30 comprimidos)",
+    "price": "17.39",
+    "description": "Analgésico e antitérmico (dor e febre)",
+    "image": "images/dipirona.png"
+  },
+  {
+    "id": "m2",
+    "name": "Paracetamol 500 mg (20 comprimidos)",
+    "price": "8.75",
+    "description": "Alívio de dor leve e febre",
+    "image": "images/paracetamol.png"
+  },
+  {
+    "id": "m3",
+    "name": "Ibuprofeno 400 mg (10 cápsulas)",
+    "price": "11.00",
+    "description": "Antiinflamatório e analgésico",
+    "image": "images/ibuprofeno.png"
+  },
+  {
+    "id": "m4",
+    "name": "Amoxicilina 500 mg (15 cápsulas)",
+    "price": "10.90",
+    "description": "Antibiótico para infecções bacterianas",
+    "image": "images/amoxicilina.png"
+  },
+  {
+    "id": "m5",
+    "name": "Losartana potássica 50 mg (30 comprimidos)",
+    "price": "19.90",
+    "description": "Tratamento da hipertensão arterial",
+    "image": "images/losartana.png"
+  },
+  {
+    "id": "m6",
+    "name": "Sinvastatina 20 mg (30 comprimidos)",
+    "price": "21.50",
+    "description": "Redução do colesterol",
+    "image": "images/sinvastatina.png"
+  },
+  {
+    "id": "m7",
+    "name": "Sertralina 50 mg (30 comprimidos)",
+    "price": "27.90",
+    "description": "Tratamento de depressão e ansiedade",
+    "image": "images/sertralina.png"
+  },
+  {
+    "id": "m8",
+    "name": "Fluoxetina 20 mg (30 cápsulas)",
+    "price": "22.80",
+    "description": "Tratamento de depressão e compulsão alimentar",
+    "image": "images/fluoxetina.png"
+  },
+  {
+    "id": "m9",
+    "name": "Clonazepam 2 mg (10 comprimidos)",
+    "price": "10.50",
+    "description": "Ansiedade severa e insônia (controlado)",
+    "image": "images/clonazepam.png"
+  }
+]
