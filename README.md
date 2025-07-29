@@ -11,6 +11,31 @@ The project is divided into two main parts:
 
 <hr>
 
+# Remédios
+
+<img src="https://github.com/gui-silva-github/pharmetize/blob/main/public/medications.png"/>
+<img src="https://github.com/gui-silva-github/pharmetize/blob/main/public/medications-2.png"/>
+
+<hr>
+
+# Carrinho
+
+<img src="https://github.com/gui-silva-github/pharmetize/blob/main/public/cart.png"/>
+
+<hr>
+
+# Checkout
+
+<img src="https://github.com/gui-silva-github/pharmetize/blob/main/public/checkout.png"/>
+
+<hr>
+
+# Sucesso
+
+<img src="https://github.com/gui-silva-github/pharmetize/blob/main/public/success.png"/>
+
+<hr>
+
 ## ✨ Recursos
 
 - Browse a list of pharmacy products
